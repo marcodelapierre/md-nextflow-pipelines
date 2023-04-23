@@ -12,5 +12,5 @@ Production-ready pipelines for the life sciences:
 - [trinity-nf](https://github.com/marcodelapierre/trinity-nf): Trinity assembly pipeline from USydney Informatics Hub
 
 Major contributions to the Nextflow codebase:
-- [Support for Sarus container runtime](https://github.com/nextflow-io/nextflow/pull/3470)
-- [Support for Spack package manager in Nextflow](https://github.com/nextflow-io/nextflow/pull/3580)
+- Support for Sarus container runtime: [PR #3470](https://github.com/nextflow-io/nextflow/pull/3470)
+- Support for Spack package manager in Nextflow: [PR #3580](https://github.com/nextflow-io/nextflow/pull/3580) and [PR #3786](https://github.com/nextflow-io/nextflow/pull/3786)
