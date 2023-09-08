@@ -9,7 +9,7 @@ Toy pipelines for prototyping and testing platforms and functionalities:
 Production-ready pipelines for the life sciences:
 - [illumina-nf](https://github.com/marcodelapierre/illumina-nf): Illumina pipeline for DPIRD
 - [nanopore-nf](https://github.com/marcodelapierre/nanopore-nf): Nanopore pipeline for DPIRD
-- [trinity-nf](https://github.com/marcodelapierre/trinity-nf): Trinity assembly pipeline for BioCommons, ported from USydney Informatics Hub
+- [trinity-nf](https://github.com/marcodelapierre/trinity-nf): Trinity assembly pipeline for BioCommons, ported from USydney Informatics Hub ([WorkflowHub entry](https://workflowhub.eu/workflows/114))
 
 Major contributions to the Nextflow codebase:
 - Support for Spack package manager in Wave: [PR #3636](https://github.com/nextflow-io/nextflow/pull/3636)
