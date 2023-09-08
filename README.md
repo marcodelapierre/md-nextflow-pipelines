@@ -11,7 +11,7 @@ Production-ready pipelines for the life sciences:
 - [nanopore-nf](https://github.com/marcodelapierre/nanopore-nf): Nanopore pipeline for DPIRD
 - [trinity-nf](https://github.com/marcodelapierre/trinity-nf): Trinity assembly pipeline for BioCommons, ported from USydney Informatics Hub ([WorkflowHub entry](https://workflowhub.eu/workflows/114))
 
-Major contributions to the Nextflow codebase:
+Major contributions to the Nextflow codebase (while at Pawsey, 2022-2023):
 - Support for Spack package manager in Wave: [PR #3636](https://github.com/nextflow-io/nextflow/pull/3636)
 - Support for Spack package manager in Nextflow: [PR #3580](https://github.com/nextflow-io/nextflow/pull/3580) and [PR #3786](https://github.com/nextflow-io/nextflow/pull/3786)
 - Support for Sarus container runtime: [PR #3470](https://github.com/nextflow-io/nextflow/pull/3470)
