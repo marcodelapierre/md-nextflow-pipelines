@@ -1,4 +1,4 @@
-## Meta-repository: collection of my Nextflow pipelines (Pawsey days, 2022-2023)
+## Meta-repository: collection of my Nextflow pipelines (Pawsey days, 2019-2023)
 
 Toy pipelines for prototyping and testing platforms and functionalities:
 - [toy-cowsay-nf](https://github.com/marcodelapierre/toy-cowsay-nf): Toy pipeline for simple Nextflow tests
