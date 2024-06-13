@@ -14,6 +14,6 @@ Analysis pipelines for the life sciences:
 - [illumina-nf](https://github.com/marcodelapierre/illumina-nf): Illumina pipeline for DPIRD
 
 Major contributions to the Nextflow codebase (Pawsey days, 2019-2023):
-- Support (initial) for Spack package manager in Wave: [PR #3636](https://github.com/nextflow-io/nextflow/pull/3636)
 - Support for Spack package manager in Nextflow: [PR #3580](https://github.com/nextflow-io/nextflow/pull/3580) and [PR #3786](https://github.com/nextflow-io/nextflow/pull/3786)
 - Support for Sarus container runtime (Nextflow): [PR #3470](https://github.com/nextflow-io/nextflow/pull/3470)
+- (Prototype) Support for Spack package manager in Wave: [PR #3636](https://github.com/nextflow-io/nextflow/pull/3636)
